@@ -1,0 +1,3 @@
+Operating Systems Lab
+Experiment: Copy file using system calls (open, read, write)
+End of content.
